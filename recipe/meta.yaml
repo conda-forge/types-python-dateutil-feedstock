@@ -1,5 +1,5 @@
 {% set name = "types-python-dateutil" %}
-{% set version = "2.8.19" %}
+{% set version = "2.8.19.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-python-dateutil-{{ version }}.tar.gz
-  sha256: bfd3eb39c7253aea4ba23b10f69b017d30b013662bb4be4ab48b20bbd763f309
+  sha256: d642f7af2bb99fe78f5a776fd0ca4e32932720047f400e25ad62bc2a5b18dc94
 
 build:
   number: 0
