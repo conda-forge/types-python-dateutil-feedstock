@@ -1,11 +1,11 @@
-About types-python-dateutil
-===========================
+About types-python-dateutil-feedstock
+=====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/types-python-dateutil-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/python/typeshed
 
 Package license: Apache-2.0 AND MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/types-python-dateutil-feedstock/blob/main/LICENSE.txt)
 
 Summary: Typing stubs for python-dateutil
 
