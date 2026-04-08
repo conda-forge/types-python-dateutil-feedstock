@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.9.0.20260402"
+  version: "2.9.0.20260408"
 
 package:
   name: types-python-dateutil
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-python-dateutil/types_python_dateutil-${{ version }}.tar.gz
-  sha256: a980142b9966713acb382c467e35c5cc4208a2f91b10b8d785a0ae6765df6c0b
+  sha256: 8b056ec01568674235f64ecbcef928972a5fac412f5aab09c516dfa2acfbb582
 
 build:
   number: 0
